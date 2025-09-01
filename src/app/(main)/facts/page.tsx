@@ -81,9 +81,6 @@ const factsObj = [
   // },
 ];
 
-
-const totalItems = factsObj.length;
-
 export default function FactsPage() {
   return (
     <div className="flex flex-col">

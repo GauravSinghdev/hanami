@@ -307,17 +307,17 @@ const benefits = [
 ];
 
 // Stats data
-const stats = [
-  {
-    value: "10K+",
-    label: "Active Users",
-  },
-  {
-    value: "250K+",
-    label: "Projects Created",
-  },
-  {
-    value: "99.9%",
-    label: "Uptime Guarantee",
-  },
-];
+// const stats = [
+//   {
+//     value: "10K+",
+//     label: "Active Users",
+//   },
+//   {
+//     value: "250K+",
+//     label: "Projects Created",
+//   },
+//   {
+//     value: "99.9%",
+//     label: "Uptime Guarantee",
+//   },
+// ];
