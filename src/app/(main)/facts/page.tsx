@@ -97,8 +97,8 @@ export default function FactsPage() {
               <Image
                 src={fact.imageUrl}
                 alt={fact.alt}
-                width={300}
-                height={300}
+                width={500}
+                height={500}
                 className="rounded object-cover w-full h-48 sm:h-56 "
                 priority
               />

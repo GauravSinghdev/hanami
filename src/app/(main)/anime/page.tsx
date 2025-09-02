@@ -127,8 +127,8 @@ export default function Anime() {
               <Image
                 src={anime.image}
                 alt={anime.name}
-                width={200}
-                height={200}
+                width={500}
+                height={500}
                 className="w-full h-64 object-cover"
                 priority
               />

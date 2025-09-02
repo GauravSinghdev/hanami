@@ -23,7 +23,7 @@ export default function SchoolPage() {
               key={word.word}
               className=" border p-5 shadow-md bg-secondary hover:shadow-lg transition"
             >
-              <p className="text-lg font-semibold text-gray-800">{word.word}</p>
+              <p className="text-lg font-semibold">{word.word}</p>
               <p className="text-xl text-green-500">{word.jword}</p>
               <p className="text-sm opacity-80 mt-2">{word.meaning}</p>
             </div>
